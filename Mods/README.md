@@ -1,4 +1,4 @@
-List of mods currently in use.
+# List of mods currently in use.
 
 Klicky Probe - https://github.com/jlas1/Klicky-Probe
 
