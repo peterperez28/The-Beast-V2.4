@@ -1,4 +1,4 @@
-# Voron2.4
+# LDO KIT Voron 2.4
 
 
 Initial Setup of the LDO Kit V2.4
