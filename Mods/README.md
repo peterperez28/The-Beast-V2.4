@@ -5,3 +5,5 @@ Klicky Probe - https://github.com/jlas1/Klicky-Probe
 Auto Z Offset calibration w/ Klicky Probe - https://github.com/protoloft/klipper_z_calibration
 
 Klipper LED Effects - https://github.com/julianschill/klipper-led_effect
+
+Stealth Burner LEDS - https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/Klipper_Macros
