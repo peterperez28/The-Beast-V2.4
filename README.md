@@ -1,7 +1,7 @@
 # LDO KIT Voron 2.4
 
 Repo to Follow:
-
+https://github.com/printerconfigs
 
 
 Initial Setup of the LDO Kit V2.4
