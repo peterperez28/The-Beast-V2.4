@@ -13,3 +13,5 @@ Silicone Brush Nozzle Scrubber - https://www.printables.com/model/109349-silicon
 UnKlicky - https://github.com/majarspeed/Unklicky  (NO TESTED)
 
 Keystone - https://github.com/Barcode-Labs/VORON_MODS/tree/main/INPUT_SHAPER_SKIRT_CONNECTOR
+
+BARF LED - https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED
