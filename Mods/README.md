@@ -15,3 +15,5 @@ UnKlicky - https://github.com/majarspeed/Unklicky  (NO TESTED)
 Keystone - https://github.com/Barcode-Labs/VORON_MODS/tree/main/INPUT_SHAPER_SKIRT_CONNECTOR
 
 BARF LED - https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED
+
+Boot Up Screen - https://docs.vorondesign.com/community/howto/samwiseg0/voron_rpi_bootscreen.html
