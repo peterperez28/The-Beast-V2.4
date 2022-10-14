@@ -17,3 +17,5 @@ Keystone - https://github.com/Barcode-Labs/VORON_MODS/tree/main/INPUT_SHAPER_SKI
 BARF LED - https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED
 
 Boot Up Screen - https://docs.vorondesign.com/community/howto/samwiseg0/voron_rpi_bootscreen.html
+
+video bootup- https://www.tomshardware.com/how-to/custom-raspberry-pi-splash-screen
